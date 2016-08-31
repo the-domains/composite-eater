@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-29T15:29:50.311Z'
+datePublished: '2016-08-29T15:41:18.258Z'
 sourcePath: _posts/2016-08-29-3-breakfast-in-the-mekong-delta.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=2vys39VYux8&feature=youtu.be'
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-29T15:29:49.724Z'
+dateModified: '2016-08-29T15:41:17.760Z'
 title: 3* breakfast in the Mekong Delta
 publisher: {}
 description: Click the photo for a sounding-moving pictures experience.
