@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-29T13:12:21.785Z'
+datePublished: '2016-08-29T13:14:11.276Z'
+sourcePath: _posts/2016-08-29-the-european-abalone.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T12:56:38.864Z'
+dateModified: '2016-08-29T13:14:10.552Z'
 title: The European Abalone
 publisher: {}
 description: >-
@@ -13,17 +15,17 @@ description: >-
   representative of the Haliotidae family. To be honest, I did not expect to
   find it on this side of the Atlantic either. But as soon as I've spotted the
   characteristic half shells at my fishmonger's stand this morning, I knew that
-  they'll land on my plate today. 
+  they'll land on my plate today.
 starred: false
-sourcePath: _posts/2016-08-29-the-european-abalone.md
-_type: Blurb
+url: the-european-abalone/index.html
+_type: Article
 
 ---
 ![Green ormer](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1265f8fe-b848-4fc8-b8cd-bfd999065040.jpg)
 
 # The European Abalone
 
-If you're not from Europe, the chances are that it will seem strange to you that I've put a "green ormer" tag to what obviously looks like abalone. Well, this is just a precise way of describing _Haliotis tuberculata_, the European representative of the _Haliotidae_ family. To be honest, I did not expect to find it on this side of the Atlantic either. But as soon as I've spotted the characteristic half shells at my fishmonger's stand this morning, I knew that they'll land on my plate today. 
+If you're not from Europe, the chances are that it will seem strange to you that I've put a "green ormer" tag to what obviously looks like abalone. Well, this is just a precise way of describing _Haliotis tuberculata_, the European representative of the _Haliotidae_ family. To be honest, I did not expect to find it on this side of the Atlantic either. But as soon as I've spotted the characteristic half shells at my fishmonger's stand this morning, I knew that they'll land on my plate today.
 
 If it weren't for commercial farming, most probably abalones in general would have joined the legendary New York oysters due to the serious appetite of gourmands from California, South Africa, Australia and Japan. European ormers are farmed at the coasts of Bretagne in northern France, e.g., at Phare de l'île Vierge (http://www.francehaliotis.com/index.html), not that far away from Brest. After three to five years of serene existence and algae diet, they were taken out from marine depths and just 24 hours later flexed their muscles in the chill of the Picardian morning.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a84126a2-84c2-4a4e-a8f9-6808b6026320.jpg)
