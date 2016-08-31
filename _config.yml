@@ -1,4 +1,3 @@
-layout_spectrum: 0.03146811225451529
 typography_spectrum: 0.36457640025764704
 color:
   brandStrength: 0.07934124022722244
@@ -11,4 +10,6 @@ color:
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
+layout_spectrum: 0.03146811225451529
 name: Composite Eater
+title: Composite Eater
