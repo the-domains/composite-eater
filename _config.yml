@@ -12,4 +12,8 @@ color:
     - '#8E001C'
 layout_spectrum: 0.03146811225451529
 name: Composite Eater
+navigation:
+  - name: Who am I?
+    id: 7ee7b042-dc82-49d8-a0c1-6d463e677647
+    type: content
 title: Composite Eater
