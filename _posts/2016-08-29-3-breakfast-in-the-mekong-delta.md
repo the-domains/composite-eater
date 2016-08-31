@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-29T14:08:35.107Z'
+datePublished: '2016-08-29T14:12:50.558Z'
 sourcePath: _posts/2016-08-29-3-breakfast-in-the-mekong-delta.md
 inFeed: true
+isBasedOnUrl: 'https://www.youtube.com/watch?v=2vys39VYux8&feature=youtu.be'
 author: []
 via: {}
-dateModified: '2016-08-29T14:08:34.544Z'
+dateModified: '2016-08-29T14:12:49.866Z'
 title: 3* breakfast in the Mekong Delta
 publisher: {}
 description: >-
@@ -14,10 +15,10 @@ description: >-
   and taste it in real just a couple of months later. Full documentary on the
   visit to Vietnam is to be published shortly.
 starred: false
-_type: Blurb
+_type: MediaObject
 
 ---
-![https://www.youtube.com/watch?v=2vys39VYux8&feature=youtu.be](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8d9dac0-ca9c-4c2e-8a40-8e5159c0041e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8d9dac0-ca9c-4c2e-8a40-8e5159c0041e.jpg)
 
 # 3\* breakfast in the Mekong Delta
 
