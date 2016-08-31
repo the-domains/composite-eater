@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-29T15:41:18.258Z'
+datePublished: '2016-08-29T15:48:28.825Z'
 sourcePath: _posts/2016-08-29-3-breakfast-in-the-mekong-delta.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=2vys39VYux8&feature=youtu.be'
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-29T15:41:17.760Z'
+dateModified: '2016-08-29T15:48:28.076Z'
 title: 3* breakfast in the Mekong Delta
 publisher: {}
 description: Click the photo for a sounding-moving pictures experience.
@@ -20,4 +20,4 @@ _type: MediaObject
 
 Click the photo for a sounding-moving pictures experience.
 
-Not that long time ago I was watching Gordon Ramsey's journey in the Indochina and especially how he struggled to prepare soup in the morning rush of the Cái Răng floating market, in Cần Thơ in the Mekong Delta. I didn't expect to see and taste it in real just a couple of months later. Full documentary on the visit to Vietnam is to be published shortly.
+Not that long time ago I was watching Gordon Ramsay's journey in the Indochina and especially how he struggled to prepare soup in the morning rush of the Cái Răng floating market, in Cần Thơ in the Mekong Delta. I didn't expect to see and taste it in real just a couple of months later. Full documentary on the visit to Vietnam is to be published shortly.
