@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-29T15:39:25.943Z'
+datePublished: '2016-08-29T15:40:43.778Z'
 sourcePath: _posts/2016-08-29-the-butchers.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T15:39:25.257Z'
+dateModified: '2016-08-29T15:40:43.353Z'
 title: The Butchers.
 publisher: {}
 description: >-
