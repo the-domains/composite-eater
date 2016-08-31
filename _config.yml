@@ -1,4 +1,5 @@
-typography_spectrum: 0.36457640025764704
+layout_spectrum: 0.39839249360375106
+typography_spectrum: 0.0973920994438231
 color:
   brandStrength: 0.07934124022722244
   lightness: 0.42821938125416636
@@ -10,7 +11,6 @@ color:
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
-layout_spectrum: 0.03146811225451529
 name: Composite Eater
 navigation:
   - name: Who am I?
