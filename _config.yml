@@ -1,38 +1,14 @@
-typography_spectrum: 0.39870435488410294
+layout_spectrum: 0.03146811225451529
+typography_spectrum: 0.36457640025764704
 color:
-  saturation: 0.7768040315713733
-  brandStrength: 0.073475118028
-  rhythmicContrast: 0.8120141043327749
+  brandStrength: 0.07934124022722244
+  lightness: 0.42821938125416636
+  saturation: 0.6012075492180884
+  rhythmicContrast: 0.6868980759754777
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
-  lightness: 0.7574509545229375
-layout_spectrum: 0.9528696739580482
-author:
-  name: Anna Madra
-  email: annakopov@gmail.com
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Composite Eater
-navigation:
-  - name: Who am I?
-    id: cd85963a-fb1d-4d0f-abfa-e50bcd774cd9
-    type: content
-  - name: Composite Explorer
-    url: 'https://thegrid.ai/composite-explorer/'
-    type: external
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: 'The stories of food, life, universe and science, i.e., everything'
-description: 'The stories of food, life, universe and science, i'
