@@ -1,4 +1,3 @@
-layout_spectrum: 0.9528696739580482
 typography_spectrum: 0.39870435488410294
 color:
   saturation: 0.7768040315713733
@@ -11,6 +10,7 @@ color:
     - '#2A2C2B'
     - '#1E1E20'
   lightness: 0.7574509545229375
+layout_spectrum: 0.9528696739580482
 author:
   name: Anna Madra
   email: annakopov@gmail.com
@@ -35,3 +35,4 @@ collections:
     permalink:
       path: '/:title/'
 title: 'The stories of food, life, universe and science, i.e., everything'
+description: 'The stories of food, life, universe and science, i'
