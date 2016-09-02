@@ -1,13 +1,20 @@
 ---
-datePublished: '2016-08-29T12:17:20.961Z'
+datePublished: '2016-08-29T12:45:21.466Z'
 sourcePath: _posts/2016-05-28-green-ormer.md
 author:
   - name: Anna Madra
 via: {}
-dateModified: '2016-08-29T12:17:20.090Z'
+dateModified: '2016-08-29T12:45:20.718Z'
 title: Green ormer
 publisher: {}
-description: ''
+description: >-
+  If you're not from Europe, the chances are that it will seem strange to you
+  that I've put a "green ormer" tag to what obviously looks like abalone. Well,
+  this is just a precise way of describing Haliotis tuberculata, the European
+  representative of the Haliotidae family. To be honest, I did not expect to
+  find it on this side of the Atlantic either. But as soon as I've spotted the
+  characteristic half shells at my fishmonger's stand this morning, I knew that
+  they'll land on my plate today.
 starred: false
 inFeed: true
 hasPage: false
@@ -15,8 +22,6 @@ inNav: false
 _type: MediaObject
 
 ---
-Green ormer
-
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e9e3557-2f93-4638-af56-829734efd86e.jpg" /><h1>Green ormer</h1><p>The European abalone</p></article>
 
 If you're not from Europe, the chances are that it will seem strange to you that I've put a "green ormer" tag to what obviously looks like abalone. Well, this is just a precise way of describing _Haliotis tuberculata_, the European representative of the _Haliotidae_ family. To be honest, I did not expect to find it on this side of the Atlantic either. But as soon as I've spotted the characteristic half shells at my fishmonger's stand this morning, I knew that they'll land on my plate today.
