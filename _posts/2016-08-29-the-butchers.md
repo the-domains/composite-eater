@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-29T15:40:43.778Z'
+datePublished: '2016-08-31T17:13:31.566Z'
 sourcePath: _posts/2016-08-29-the-butchers.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T15:40:43.353Z'
+dateModified: '2016-08-31T17:13:30.676Z'
 title: The Butchers.
 publisher: {}
 description: >-
@@ -26,7 +26,7 @@ _type: Article
 
 I don't like killing. There is no pride in ending the life of anything or anybody. It's no fun either, although staying out in the cold for hours waiting for that wild boar to go on a midnight stroll by the moon instills that special feeling. A poet would call it a connection with the original human. He would call upon the blood and the god-like decisions about the life and death. I'm sorry, I'm not a poet.
 
-Full story unravels after clicking on the carnage.
+Full story unravels after clicking on the title.
 
 All I can see is hauling the gutted beast through the night to put it in a burlap sack in the back of a pickup. You hang it in the cooler and the next day after school (yeah, those were the days) you have a knife in your hand while attending Dr. Tulp's life anatomy lesson. Rembrandt, as usual, was very economical with color, but it's true - flaying and quartering the _Sus Scrofa_ is not a bloodbath. It's a very clean and precise operation, where you thrive to maximize the yield while keeping an eye on the residual lead. Either this, or you'll break your teeth on a sausage later. A happy pig becomes a happy sirloin steak garnished with onions in a matter of hours.
 
